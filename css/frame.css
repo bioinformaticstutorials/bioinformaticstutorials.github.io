@@ -11,7 +11,7 @@ body {
   margin: 0;
   padding: 0;
   background-color: white;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, Helvetica, Arial, sans-serif;
   left: 0;
   right: 0;
   width: auto;
@@ -45,7 +45,7 @@ h2 {
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, Helvetica, Arial, sans-serif;
 }
 
 h3 {
@@ -53,7 +53,7 @@ h3 {
   margin: 10px 0 0 0;
   padding: 0;
   font-weight: bold;
-  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, Helvetica, Arial, sans-serif;
 }
 
 ul,
@@ -111,7 +111,7 @@ hr {
 
 .logo a {
   color: rgba(255, 255, 255, 0.8);
-  font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
+  font-family: Ubuntu, Helvetica, Arial, sans-serif;
   font-size: 30px;
   text-decoration: none;
   font-weight: 700;
